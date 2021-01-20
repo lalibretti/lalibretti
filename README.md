@@ -1,4 +1,5 @@
 # :wave: Hi! I'm Lauren
+A **WEB DEVELOPMENT** ***Student*** 🚀
 This is my github. I'm currently pursuing a full-stack certificate from Hofstra University. I'll be sharing my works in progress as I develop my skillset. 
 
 
@@ -14,8 +15,6 @@ This is my github. I'm currently pursuing a full-stack certificate from Hofstra 
 
 <br />
 <br />
-
-A **WEB DEVELOPMENT** ***Student*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" />
