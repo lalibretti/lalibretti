@@ -1,5 +1,6 @@
-# :wave: Hi! I'm Lauren
-A **Developer** ***Designer*** ***Generally excited to learn***  🚀
+# :wave: Hi! I'm Lauren!
+A **Developer**, ***Designer***, and ***Generally excited to code***  🚀
+<br />
 This is my github. I completed a full-stack certificate from Hofstra University in July 2021. I'm now working on updating my past projects and looking for my first developer role. 
 
 
@@ -22,7 +23,7 @@ This is my github. I completed a full-stack certificate from Hofstra University 
 **About Me!**
 
 - 👨🏽‍💻 I recently completed  a Full-Stack Bootcamp at Hofstra University
-- 🌱 I currently work with html/css bootstrap/tailwind/javascript/react/node.js/sequelize/mysql adding more skills each week. 
+- 🌱 I currently work with html/css bootstrap/tailwind/javascript/react/node/sequelize/mysql 
 - 🤔 My interest lies in creating functional and pretty things.
 - 🎨🎭 I have a background in design and the performing arts. 
 - 💬 Ask me about anything, I love to answer!
