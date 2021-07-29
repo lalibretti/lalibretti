@@ -1,6 +1,6 @@
 # :wave: Hi! I'm Lauren
-A **WEB DEVELOPMENT** ***Student*** 🚀
-This is my github. I'm currently pursuing a full-stack certificate from Hofstra University. I'll be sharing my works in progress as I develop my skillset. 
+A **Developer** ***Designer*** ***Generally excited to learn***  🚀
+This is my github. I completed a full-stack certificate from Hofstra University in July 2021. I'm now working on updating my past projects and looking for my first developer role. 
 
 
 <a href="https://https://www.linkedin.com/in/lauren-libretti/">
@@ -21,13 +21,14 @@ This is my github. I'm currently pursuing a full-stack certificate from Hofstra 
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Full-Stack Student at Hofstra University
-- 🌱 I’m currently learning javascript and python, adding more skills each week. 
-- 🤔 My interest lies in project & product management.
+- 👨🏽‍💻 I recently completed  a Full-Stack Bootcamp at Hofstra University
+- 🌱 I currently work with html/css bootstrap/tailwind/javascript/react/node.js/sequelize/mysql adding more skills each week. 
+- 🤔 My interest lies in creating functional and pretty things.
 - 🎨🎭 I have a background in design and the performing arts. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [lalibretti616@gmail.com](mailto:lalibretti616@gmail.com)
-- 👩🏻‍🎓I graduate from my bootcamp summer 2021! 
+- 👩🏻‍🎓I graduated from my bootcamp July 2021!
+- 🤓 I teach intro courses with [Girl Develop It!](https://girldevelopit.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalibretti&layout=compact)](https://github.com/lalibretti/github-readme-stats)
 
