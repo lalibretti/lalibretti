@@ -20,7 +20,7 @@ This is my github. I completed a full-stack certificate from Hofstra University 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" />
 
-**About Me!**
+# About Me!
 
 - 👨🏽‍💻 I recently completed  a Full-Stack Bootcamp at Hofstra University
 - 🌱 I currently work with html/css bootstrap/tailwind/javascript/react/node/sequelize/mysql 
