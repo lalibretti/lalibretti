@@ -22,14 +22,13 @@ This is my github. I completed a full-stack certificate from Hofstra University 
 
 # About Me!
 
-- 👨🏽‍💻 I recently completed  a Full-Stack Bootcamp at Hofstra University
-- 🌱 I currently work with html/css bootstrap/tailwind/javascript/react/node/sequelize/mysql 
 - 🤔 My interest lies in creating functional and pretty things.
 - 🎨🎭 I have a background in design and the performing arts. 
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [lalibretti616@gmail.com](mailto:lalibretti616@gmail.com)
 - 👩🏻‍🎓I graduated from my bootcamp July 2021!
-- 🤓 I teach intro courses with [Girl Develop It!](https://girldevelopit.com/)
+- 🤓 I teach coding classes to empower women entering tech with [Girl Develop It!](https://girldevelopit.com/)
+- 👩🏻‍💻 I work at Braze! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalibretti&layout=compact)](https://github.com/lalibretti/github-readme-stats)
 
