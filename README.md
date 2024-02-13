@@ -1,8 +1,7 @@
 # :wave: Hi! I'm Lauren!
 A **Developer**, ***Designer***, and ***Generally excited to code***  🚀
 <br />
-This is my github. I completed a full-stack certificate from Hofstra University in July 2021. I'm now working on updating my past projects and looking for my first developer role. 
-
+This is my github. I completed a full-stack certificate from Hofstra University in July 2021. I live in NYC 
 
 <a href="https://https://www.linkedin.com/in/lauren-libretti/">
   <img align="left" alt="Lauren's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
