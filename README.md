@@ -24,7 +24,6 @@ This is my github. I completed a full-stack certificate from Hofstra University 
 - 🤔 My interest lies in creating functional and pretty things.
 - 🎨🎭 I have a background in design and the performing arts. 
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [lalibretti616@gmail.com](mailto:lalibretti616@gmail.com)
 - 👩🏻‍🎓I graduated from my bootcamp July 2021!
 - 🤓 I teach coding classes to empower women entering tech with [Girl Develop It!](https://girldevelopit.com/)
 - 👩🏻‍💻 I work at Braze! 
